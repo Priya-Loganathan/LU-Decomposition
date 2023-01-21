@@ -33,6 +33,8 @@ RegisterNumber:
 
 ## Output:
 ![lu decomposition]()
+![Screenshot 2023-01-21 211033](https://user-images.githubusercontent.com/121166075/213874640-0475f9a9-94bf-48f3-b7b5-2ad72c8e4e46.png)
+![Screenshot 2023-01-21 211120](https://user-images.githubusercontent.com/121166075/213874655-305519fd-40dc-4094-abe8-6567678a2fd2.png)
 
 
 ## Result:
